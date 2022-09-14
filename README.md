@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am highly motivated and my experience spans across many languages such as, HTML, CSS, PHP, Javascript, MySQL.
+
 <!--
 **Benghost7/Benghost7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
